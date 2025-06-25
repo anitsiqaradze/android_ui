@@ -1,12 +1,10 @@
-<gradient
-    android:type="radial"
-    android:gradientRadius="200"
-    android:centerX="0.5"
-    android:centerY="0.5"
+-- <gradient
+   -- android:type="radial"
+    --android:gradientRadius="200"
+    --android:centerX="0.5"
+   -- android:centerY="0.5"
     android:startColor="#FF9800"
     android:endColor="#F44336"/>
-<gradient
+-- <gradient
     android:type="sweep"
     android:startColor="#4CAF50"
-    android:endColor="#8BC34A"/>
-android:background="@drawable/gradient_background"
